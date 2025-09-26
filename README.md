@@ -42,3 +42,21 @@ Total course score T = 0.1 GAA + 0.30 F + 0.20 OPPE1 + 0.20 OPPE2 + 0.20 KA
 ![[Pasted image 20250924142946.png]]
 
 
+## Course structure & Assessments
+
+12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam. For details of standard course structure and assessments, visit [Academics](https://study.iitm.ac.in/ds/academics.html) page.
+
+|   |   |
+|---|---|
+|WEEK 1|End-to-end machine learning project on scikit-learn|
+|WEEK 2|Graph Theory(VOL 3)|
+|WEEK 3|Regression on scikit-learn - Linear regression Gradient descent - batch and stochastic.|
+|WEEK 4|Polynomial regression, Regularized models|
+|WEEK 5|Logistic regression|
+|WEEK 6|Classification on scikit-learn - Binary classifier|
+|WEEK 7|Classification on scikit-learn - Multiclass classifier|
+|WEEK 8|Support Vector Machines using scikit-learn|
+|WEEK 9|Decision Trees, Ensemble Learning and Random Forests|
+|WEEK 10|Decision Trees, Ensemble Learning and Random Forests (Continued)|
+|WEEK 11|Neural networks models in scikit-learn|
+|WEEK 12|Unsupervised learning|
