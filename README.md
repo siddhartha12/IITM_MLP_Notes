@@ -20,12 +20,12 @@ Online programming exam 1: – (OPE1)   Saturday, November 8, 2025      
 
 Online programming exam 2: – (OPE2)   Sunday, December 7, 2025 & Sunday, December 14, 2025 (Depends on enrollment)
 
-|   |   |   |   |
-|---|---|---|---|
-|Assignment Title|Release date|Deadline|Peer Review Deadline|
-|KA1|Oct 14 Tuesday 2025|Oct 23 Thursday 2025|Oct 27 Monday 2025|
-|KA2|Nov 11 Tuesday 2025|Nov 20 Thursday 2025|Nov 24 Monday 2025|
-|KA3|Dec 2 Tuesday 2025|Dec 11 Thursday 2025|Dec 15 Monday 2025|
+|                  |                     |                      |                      |
+| ---------------- | ------------------- | -------------------- | -------------------- |
+| Assignment Title | Release date        | Deadline             | Peer Review Deadline |
+| KA1              | Oct 14 Tuesday 2025 | Oct 23 Thursday 2025 | Oct 27 Monday 2025   |
+| KA2              | Nov 11 Tuesday 2025 | Nov 20 Thursday 2025 | Nov 24 Monday 2025   |
+| KA3              | Dec 2 Tuesday 2025  | Dec 11 Thursday 2025 | Dec 15 Monday 2025   |
 
 GAA = Average score in First 10 weekly graded assignments
 
